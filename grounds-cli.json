@@ -1,0 +1,15 @@
+{
+    "version": "0.1.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/groundsgg/grounds-cli/releases/download/v0.1.1/grounds-cli_0.1.1_windows_amd64.zip",
+            "bin": [
+                "grounds.exe"
+            ],
+            "hash": "a8a692583b2ceee8b188f935781543b4bb4ec18224bbb3bfb1bc6b9c1572047d"
+        }
+    },
+    "homepage": "https://grounds.gg",
+    "license": "Apache-2.0",
+    "description": "Grounds Internal Developer Platform CLI"
+}
