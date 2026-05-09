@@ -1,15 +1,15 @@
 {
-    "version": "0.1.17",
+    "version": "0.1.18",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/groundsgg/grounds-cli/releases/download/v0.1.17/grounds-cli_0.1.17_windows_amd64.zip",
+            "url": "https://github.com/groundsgg/grounds-cli/releases/download/v0.1.18/grounds-cli_0.1.18_windows_amd64.zip",
             "bin": [
                 "grounds.exe"
             ],
-            "hash": "87ffffd9800f1231c6425a65e176eeb0fcff68df750a74bb5969c01bac63d4e9"
+            "hash": "317674a866769b0d639077c8ddb68efdccd78ec4ee652e2286e1c514d91ac339"
         }
     },
     "homepage": "https://grounds.gg",
     "license": "Apache-2.0",
-    "description": "Grounds Internal Developer Platform CLI"
+    "description": "Grounds Developer Platform CLI"
 }
