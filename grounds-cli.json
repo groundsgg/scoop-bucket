@@ -1,12 +1,12 @@
 {
-    "version": "0.1.19",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/groundsgg/grounds-cli/releases/download/v0.1.19/grounds-cli_0.1.19_windows_amd64.zip",
+            "url": "https://github.com/groundsgg/grounds-cli/releases/download/v0.2.0/grounds-cli_0.2.0_windows_amd64.zip",
             "bin": [
                 "grounds.exe"
             ],
-            "hash": "f3262e0dd6d915e3687de6209b26a838c7590b96296dc1b8527e0d2027c10b84"
+            "hash": "a0b40ad7a36ceb59a04b0462ff427e967e212659c62f8ce41e22f4e5dd4b4bab"
         }
     },
     "homepage": "https://grounds.gg",
